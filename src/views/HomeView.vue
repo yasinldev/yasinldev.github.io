@@ -6,7 +6,7 @@ import RealStatus from '../components/RealStatus.vue'
 <template>
   <main>
     <h1>👋 Welcome</h1>
-    <p class="description">I'm yasin, 17 years old self-taught computer scientist from Turkey.</p>
+    <p class="description">I'm yasin, 20 years old self-taught computer scientist from Turkey.</p>
 
     <OnlineStatus discord-id="1108777629571616798" />
     <RealStatus />
